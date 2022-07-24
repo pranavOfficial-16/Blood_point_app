@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "749401703718",
+    "firebase_url": "https://blood-point-d404a-default-rtdb.firebaseio.com",
+    "project_id": "blood-point-d404a",
+    "storage_bucket": "blood-point-d404a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749401703718:android:b2bd77ce75cc3c34db2de7",
+        "android_client_info": {
+          "package_name": "com.example.blood_point"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749401703718-gam2h1rbc4m72j3iq2bh7s4cqs94kj9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMdx-uZmgGh6eIUowQgCR3g1287TbTwCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749401703718-gam2h1rbc4m72j3iq2bh7s4cqs94kj9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

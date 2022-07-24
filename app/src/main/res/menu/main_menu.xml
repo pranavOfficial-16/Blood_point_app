@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_post"
+            android:icon="@drawable/ic_baseline_local_post_office_24"
+            android:title="@string/my_blood_post"/>
+        <item
+            android:id="@+id/nav_google_map"
+            android:icon="@drawable/ic_baseline_location_on_24"
+            android:title="@string/Google_Map" />
+        <item
+            android:id="@+id/nav_About"
+            android:icon="@drawable/ic_baseline_info_24"
+            android:title="@string/about" />
+        <item
+            android:id="@+id/nav_Rate_us"
+            android:icon="@drawable/ic_baseline_rate_review_24"
+            android:title="@string/rate_us" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_baseline_log_out_24"
+            android:title="@string/log_out" />
+    </group>
+</menu>
